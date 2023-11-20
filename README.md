@@ -1,6 +1,4 @@
-Hi, I'm @ObstetrixBear. 
-You may have questions. 
-I am here to give reply.
+Hi, I'm ObstetrixBear. You may have questions. I am here to give reply.
 
 # :bear: Nomenclature
 I work in the field of obstetrics, and my first name is Scandinavian for bear. That's really all there is to it.
