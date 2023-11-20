@@ -1,7 +1,7 @@
 Hi, I'm ObstetrixBear. You may have questions. I am here to give reply.
 
 # :bear: Nomenclature
-I work in the field of obstetrics, and my first name is Scandinavian for bear. That's really all there is to it.
+I work in the field of obstetrics, and my first name means bear in the Swedish. That's really all there is to it.
 
 # :construction_worker: What I am
 I guess I'd be termed a senior developer, for those who care about such metrics. It's about getting the job done. 
