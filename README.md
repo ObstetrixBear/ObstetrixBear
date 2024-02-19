@@ -18,5 +18,7 @@ I draw! I draw quite a lot. I also code on retrocomputers, mainly the [Commodore
 # :information_desk_person: What this repository is about
 This is my work account. It's here that I test out and develop stuff that I don't want cluttering up the company's official repo, but which I still want to have readily available. Experiments, drafts, stuff like that.
 
+And no, there'll be nothing proprietary here. Nor anything company related.
+
 # 📫 How to reach me
 Pop me a PM, or reach out to me at [my personal GitHub page](https://github.com/Eleas). It'll be fine.
